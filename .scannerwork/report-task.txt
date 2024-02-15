@@ -1,0 +1,6 @@
+projectKey=API_YOGA_EVALUATION_WITH_TESTS
+serverUrl=http://localhost:9000
+serverVersion=10.3.0.82913
+dashboardUrl=http://localhost:9000/dashboard?id=API_YOGA_EVALUATION_WITH_TESTS
+ceTaskId=AY111G9D0V31PyFatpBV
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY111G9D0V31PyFatpBV
